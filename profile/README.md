@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b391e80-a899-4213-b6c6-f4e1d10b4805" width="100%" alt="banner"/>
+  <a href="https://gyeonggi-festa.vercel.app">
+    <img src="https://github.com/user-attachments/assets/0b391e80-a899-4213-b6c6-f4e1d10b4805" width="100%" alt="banner"/>
+  </a>
 </p>
 
 <div align="center">
