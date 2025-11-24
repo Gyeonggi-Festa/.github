@@ -102,7 +102,7 @@
 
 ## 📱 UI
 
-| 홈 | 검색 | 상세 | 동행팟 | 추천 | 실시간채팅 | 마이페이지 |
+| 홈 | 검색 | 상세 | 동행팟 | AI추천 | 실시간채팅 | 마이페이지 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/acc3b318-0733-4290-918a-798ee5b07d73" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/7add9ceb-e1c9-4d62-8e19-217775af148f" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/4d45c7f9-ed1e-44d5-9190-6061e290b2a2" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/732ca83c-0312-4072-8a97-f9a7460f0bdb" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/1ea784e0-7618-47b1-ab59-021ca5432919" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/34c2b971-eaac-4ed0-87fc-51e91a9abe3e" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/bedf3454-56b9-455f-acb6-b3e34534fa7f" width="360" height="864" alt="마이페이지"> |
 
